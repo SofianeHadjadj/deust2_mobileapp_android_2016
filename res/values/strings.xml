@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <string name="app_name">ApplicationMesContacts</string>
+     <string name="action_settings">Settings</string>
+     <string name="list_contacts">Liste des contacts</string>
+     <string name="btn_find">Afficher</string>
+     <string name="btn_selctionner">Tous selectionner</string>
+     <string name="btn_valider">Valider</string>
+     <string name="btn_annuler">Annuler</string>
+     <string name="mess_choix1">(prenom), je vous présente tous mes meilleurs vœux pour cette nouvelle année 2017. Que la santé, la joie et la prospérité soient avec vous et que vos souhaits se réalisent !</string>
+     <string name="mess_choix2">(prenom), que la prospérité, la joie et la santé soient avec vous et votre famille tout au long de cette nouvelle année. Bonne et heureuse nouvelle année.</string>
+     <string name="mess_choix3">(prenom), pour cette nouvelle année, je vous souhaite que tout soit mieux que l\'année précédente et que ce qui fut dur soit du passé. Je vous souhaite de tout cœur que vos souhaits se réalisent.</string>
+     <string name="mess_choix4">(prenom), a l\'aube de cette nouvelle année, je vous présente mes meilleurs vœux et j\'espère de tout cœur que vos souhaits seront exaucés.</string>
+     <string name="btn_envoyer">Envoyer</string>
+     
+     
+</resources>
